@@ -80,3 +80,7 @@ Il progetto deve rispettare i seguenti requisiti tecnici:
 * **Pulizia Risorse**: Deallocare correttamente tutte le risorse IPC allocate al termine della simulazione.
 * **Flag di Compilazione**: Compilare con le opzioni `-Wvla -Wextra -Werror`.
 * **Parallelismo Reale**: Il programma deve funzionare correttamente su macchine con più processori (fisici o virtuali).
+
+### Prerequisiti
+
+Assicurarsi di avere un ambiente Linux con `gcc` e `make` installati.
