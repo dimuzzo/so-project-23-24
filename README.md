@@ -1,5 +1,9 @@
 # Progetto di Sistemi Operativi: Reazione a Catena
 
+![GitHub last commit](https://img.shields.io/github/last-commit/dimuzzo/so-project-23-24?style=flat-square&logo=github&label=Last%20Commit)
+![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/so-project-23-24?style=flat-square&logo=github&label=Repo%20Size)
+![GitHub stars](https://img.shields.io/github/stars/dimuzzo/so-project-23-24?style=flat-square&logo=github&label=Stars)
+
 Questo progetto simula una reazione a catena nucleare attraverso l'interazione di diversi processi concorrenti, ognuno con un ruolo specifico all'interno della simulazione.
 
 ## Architettura del Sistema
@@ -84,3 +88,7 @@ Il progetto deve rispettare i seguenti requisiti tecnici:
 ### Prerequisiti
 
 Assicurarsi di avere un ambiente Linux con `gcc` e `make` installati.
+
+---
+
+> Created with passion by [dimuzzo](https://github.com/dimuzzo)
