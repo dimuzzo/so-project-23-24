@@ -91,4 +91,4 @@ Assicurarsi di avere un ambiente Linux con `gcc` e `make` installati.
 
 ---
 
-> Created with passion by [dimuzzo](https://github.com/dimuzzo)
+> Created with passion by [Alessandro Demo](https://github.com/dimuzzo), Andreas Maher Ali Apetrii, and [Luca Cavallotto](https://github.com/LucaCavallotto)   
