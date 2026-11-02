@@ -1,4 +1,4 @@
-# Progetto di Sistemi Operativi: Reazione a Catena
+# Progetto Sistemi Operativi: Reazione a Catena
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dimuzzo/so-project-23-24?style=flat-square&logo=github&label=Last%20Commit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/so-project-23-24?style=flat-square&logo=github&label=Repo%20Size)
